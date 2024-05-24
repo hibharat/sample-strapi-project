@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_blocks_buttons",
+  "info": {
+    "displayName": "Button"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "Primary",
+        "Secondary"
+      ]
+    },
+    "navigate_to_link": {
+      "type": "string"
+    }
+  }
+}
